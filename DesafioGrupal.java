@@ -21,7 +21,7 @@ public class DesafioGrupal {
 		String nombre, clave, opcion, opcion2;
         //Inicializo el nombre y la clave.
         String nom = "Sara";
-        String cla = "Sepe1234";
+        String cla = "Sara1234";
 
         //Declaro otras variables y las inicializo en la misma línea, para su uso posterior en funciones.
         double saldo = 3015.46;
